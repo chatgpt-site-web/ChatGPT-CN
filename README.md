@@ -1,6 +1,6 @@
 # ChatGPT 中文版：中国区免费使用指南（支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025年4月更新】  
 
-> **更新时间：2025年04月22日**
+> **更新时间：2025年05月17日**
 >
 
 全面体验 **ChatGPT 中文版**，**无需翻墙**，**支持 GPT-4、4o、o1 和本地化功能**   
@@ -37,7 +37,7 @@
 
 | 镜像站名称       | 地址                                         | 支持版本         | 免费额度      | 稳定性 | 功能亮点                         |
 |------------------|----------------------------------------------|------------------|--------------|-------|----------------------------------|
-| **一下 AI**       | [yixiaai.com](https://www.yixiaai.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 稳定运行2年、支持文件阅读、AIPPT                    |
+| **一下 AI**       | [xsimplechat.com](https://xsimplechat.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 稳定运行2年、支持文件阅读、AIPPT                    |
 | **lify ai**       | [chat.lify.vip](https://chat.lify.vip/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，支持文件阅读、PPT制作              |
 | **lanjing AI**       | [chatgpt.lanjing.ai](https://chatgpt.lanjing.ai/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
 | **星河 GPT**     | [cgn.lify.vip](https://cgn.lify.vip)           | GPT-4, GPT-4o    | 有            | 高     | 支持 MJ 绘画、API 调用              |
